@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    Viraaj's fanbase 
+
+    <link rel="stylesheet" type="text/css" href="anExternal.css">
+
+</head>
+<body>
+<h1> Viraaj Bansal </h1>
+<br>
+<p class="ex1">
+    I'm from India and am pursuing a degree in Business Admindtration at the University of Washington in Seattle. Besides having a strong academic inclination I am passionate about lawn tennis and debating.
+    <br>
+</p>
+<p class="ex2">
+    <img class = "one" src="https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/Shake-shiver-and-tremble-Why-dogs-do-it.jpg?itok=yvOUgQeL" width="550" height="331" />
+    <br>
+    <br>
+   Currently I am taking econimics 200, mathematics 125 and info 101. I'm a freshman and hope to graduate with a strong and integrated academic knowledge and skills.
+<br>
+<img class = "two" src="http://www.rd.com/wp-content/uploads/sites/2/2016/04/01-cat-wants-to-tell-you-laptop.jpg" width="550" height="331" />
+<br>
+<div class="image">
+    <div class="text">My most loved city</div>
+    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSddw0JnLc2g9q6iYNKxhAEkBIvXfeMejr5o30owGPk1EB_TAej"/>
+</div> 
+<br>
+<h2>My Favourite Sites</h2>
+<ol>
+
+<li>
+<a href="https://www.amazon.com"> AMAZON </a>
+</li>
+
+<li>
+<a href="http://www.espn.com">
+ESPN </a>
+</li>
+
+<li>
+<a href="https://www.youtube.com">
+Youtube </a>
+</li>
+
+<li>
+<a href="https://www.hfs.washington.edu/#gsc.tab=0">
+UW Housing </a>
+</li>
+
+<li>
+<a href="https://www.yahoo.com">
+YAHOO </a>
+</li>
+
+</ol>
+
+<br>
+<p id="rcorners1">There are other ways to get to know more about me</p>
+</body>
+</html>
